@@ -1,4 +1,5 @@
 this is deployment file where we will configure our app
 appVersion:v1
- ----
-other cfg changes
+  pods:4
+  servers:3
+  replicasets:2

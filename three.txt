@@ -1,1 +1,2 @@
 this is sample file created for three.txt file
+added some more content to test the git commit ammend command

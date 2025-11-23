@@ -1,1 +1,2 @@
 this is feature3 file
+new text added for testing purpose
